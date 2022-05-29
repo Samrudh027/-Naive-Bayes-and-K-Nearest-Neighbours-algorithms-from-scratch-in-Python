@@ -1,1 +1,1 @@
-#Naive-Bayes-and-K-Nearest-Neighbours-algorithms-from-scratch-in-Python
+Naive-Bayes and K-Nearest Neighbours algorithm from scratch in Python
